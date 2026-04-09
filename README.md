@@ -21,4 +21,6 @@
 npm install
 npm run dev
 
+Live Demo
+[View Live Demo](https://Pal2912.github.io/Calender/)
 [Demo](https://www.loom.com/share/37f56496b6f3450a993257b41b35f331)
